@@ -1,2 +1,2 @@
-# summit-for-lemmy
+# Summit
 A mobile client for Lemmy
