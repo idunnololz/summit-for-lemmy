@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px"
-	 height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<g id="Layer_1">
-</g>
-<g id="Layer_2">
-	<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#4790CD" points="16.935,367.487 255.348,85.588 493.762,367.487 	"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#EF8029" points="16.935,367.487 255.348,85.588 493.762,367.487 
-		255.486,424.85 	"/>
-	<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#CB5427" points="255.486,424.85 255.498,86.213 493.912,368.112 	"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D09266" points="298.986,137.488 255.348,189.088 211.708,137.488 	"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4790CD" points="211.709,137.488 255.348,85.889 298.986,137.488 	"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px" viewBox="0 0 128 128" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(27.843137%,56.470588%,80.392157%);fill-opacity:1;" d="M 4.234375 91.871094 L 63.835938 21.398438 L 123.441406 91.871094 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(93.72549%,50.196078%,16.078431%);fill-opacity:1;" d="M 4.234375 91.871094 L 63.835938 21.398438 L 123.441406 91.871094 L 63.871094 106.210938 Z M 4.234375 91.871094 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(79.607843%,32.941176%,15.294118%);fill-opacity:1;" d="M 63.871094 106.210938 L 63.875 21.554688 L 123.476562 92.027344 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(81.568627%,57.254902%,40%);fill-opacity:1;" d="M 74.746094 34.371094 L 63.835938 47.273438 L 52.925781 34.371094 Z M 74.746094 34.371094 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(27.843137%,56.470588%,80.392157%);fill-opacity:1;" d="M 52.925781 34.371094 L 63.835938 21.472656 L 74.746094 34.371094 Z M 52.925781 34.371094 "/>
 </g>
 </svg>
